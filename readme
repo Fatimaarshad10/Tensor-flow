@@ -1,0 +1,15 @@
+Tensorflow in node js 
+# Must install these before starting to work with Tensorflow in node js 
+1 Node js version 18.16.1
+2 Visual studio installer C++ 
+3 Python 3.12.3
+
+Packages
+"@tensorflow-models/coco-ssd": "^2.2.3",
+"@tensorflow/tfjs-converter": "^4.17.0",
+"@tensorflow/tfjs-node": "3.18.0"
+
+
+First Example:
+Detection model to recognize the objects inside a picture.
+
