@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs-node": "3.18.0"
+  }
+}
